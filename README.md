@@ -2,7 +2,9 @@
 
 ## Overview
 
-The PwSafeProcessor is a Python script designed to process tab-separated files (TSV) from Password Safe (pwSafe). Purpose of this script is to generate a csv that is compatible to import into other password managers
+The PwSafeProcessor is a Python script designed to process tab-separated files (TSV) from Password Safe (pwSafe). Purpose of this script is to generate a csv that is compatible to import into other password managers.
+
+Originally written to convert PwSafe Exports to Chrome & Apple formats
 
 ## Features
 
